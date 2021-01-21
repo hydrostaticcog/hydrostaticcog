@@ -1,17 +1,30 @@
-### Hi there 👋
+![Dicord Badge Badge](https://img.shields.io/badge/Discord-hydrostaticcog%232330-blueviolet) [![Reddit Badge](https://img.shields.io/badge/Reddit-Profile-orange)](https://reddit.com/u/hydrostaticcog)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hydrostaticcog)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**hydrostaticcog/hydrostaticcog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm hydrostaticcog, a student and hobby developer! I enjoy coding things Minecraft related and creating discord bots!
 
-Here are some ideas to get you started:
+### Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--- Latest Projects --->
+
+<a href="https://github.com/Grick-Heart-Project/Grick-Heart">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Grick-Heart-Project&repo=Grick-Heart&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/PaMcPy">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=PaMcPy&repo=PaMcPy&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+### GitHub Stats
+
+<!--- GitHub stats --->
+
+<a href="https://github.com/hydrostaticcog">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydrostaticcog&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/hydrostaticcog">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=hydrostaticcog&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="hydro's GitHub Stats" />
+</a>
+
+### Skills
+
+<!--- Skills --->
+
