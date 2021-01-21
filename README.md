@@ -28,3 +28,4 @@ Hi! I'm hydrostaticcog, a student and hobby developer! I enjoy coding things Min
 
 <!--- Skills --->
 
+![Python Skill](https://img.shields.io/badge/Skills-Python-brightgreen) ![JS Skill](https://img.shields.io/badge/Code-JavaScript-brightgreen) ![JS Skill](https://img.shields.io/badge/Code-HTML%20%2B%20CSS-brightgreen)
