@@ -1,4 +1,4 @@
-![Dicord Badge Badge](https://img.shields.io/badge/Discord-hydrostaticcog%232330-blueviolet) [![Reddit Badge](https://img.shields.io/badge/Reddit-Profile-orange)](https://reddit.com/u/hydrostaticcog)
+![Dicord Badge Badge](https://img.shields.io/badge/Discord-hydrostaticcog%232330-blueviolet) [![Reddit Badge](https://img.shields.io/badge/Reddit-Profile-orange)](https://reddit.com/u/hydrostaticcog) [![Web Badge](https://img.shields.io/badge/Website-hydrostaticcog.org-green)](https://hydrostaticcog.org)
 
 Hi! I'm hydrostaticcog, a student and hobby developer! I enjoy coding things Minecraft related and creating discord bots!
 
