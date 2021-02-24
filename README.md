@@ -9,8 +9,8 @@ Hi! I'm hydrostaticcog, a student and hobby developer! I enjoy coding things Min
 <a href="https://github.com/Grick-Heart-Project/Grick-Heart">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Grick-Heart-Project&repo=Grick-Heart&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/hydrostaticcog/TicketBunny">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hydrostaticcog&repo=TicketBunny&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/hydrostaticcog/SupportBunny">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hydrostaticcog&repo=SupportBunny&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 ### GitHub Stats
