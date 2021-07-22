@@ -6,10 +6,10 @@ Hi! I'm hydrostaticcog, a student and hobby developer! I enjoy coding things Min
 
 <!--- Latest Projects --->
 
-<a href="https://github.com/Grick-Heart-Project/Grick-Heart">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=LucidiaLearning&repo=Lucidia-Discord-Bot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/tazz4843/FerrisChat">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tazz4843&repo=FerrisChat&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/hydrostaticcog/SupportBunny">
+<a href="https://github.com/mcpyproject/McPy">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mcpyproject&repo=McPy&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
