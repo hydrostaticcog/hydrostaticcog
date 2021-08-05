@@ -2,4 +2,4 @@
 
 Hi! I'm hydrostaticcog, a student and hobby developer! I am working on a Discord replacement: FerrisChat. It aims to be significantly faster, and less restrictive. Find out more at [FerrisChat](https://github.com/FerrisChat)!
 
-![Metrics](https://github.com/hydrostaticcog/hydrostaticcog/blob/master/github-metrics.svg)
+![Metrics](https://github.com/hydrostaticcog/hydrostaticcog/blob/main/github-metrics.svg)
