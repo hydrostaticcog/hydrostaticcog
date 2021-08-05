@@ -1,31 +1,5 @@
 ![Dicord Badge Badge](https://img.shields.io/badge/Discord-hydrostaticcog%232330-blueviolet) [![Reddit Badge](https://img.shields.io/badge/Reddit-Profile-orange)](https://reddit.com/u/hydrostaticcog) [![Web Badge](https://img.shields.io/badge/Website-hydrostaticcog.org-green)](https://hydrostaticcog.org)
 
-Hi! I'm hydrostaticcog, a student and hobby developer! I enjoy coding things Minecraft related and creating discord bots!
+Hi! I'm hydrostaticcog, a student and hobby developer! I am working on a Discord replacement: FerrisChat. It aims to be significantly faster, and less restrictive. Find out more at [FerrisChat](https://github.com/FerrisChat)!
 
-### Current Projects
-
-<!--- Latest Projects --->
-
-<a href="https://github.com/tazz4843/FerrisChat">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrisChat&repo=FerrisChat&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href="https://github.com/mcpyproject/McPy">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mcpyproject&repo=McPy&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-### GitHub Stats
-
-<!--- GitHub stats --->
-
-<a href="https://github.com/hydrostaticcog">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydrostaticcog&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href="https://github.com/hydrostaticcog">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=hydrostaticcog&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="hydro's GitHub Stats" />
-</a>
-
-### Skills
-
-<!--- Skills --->
-
-![Python Skill](https://img.shields.io/badge/Skills-Python-brightgreen) ![JS Skill](https://img.shields.io/badge/Code-JavaScript-darkred) ![JS Skill](https://img.shields.io/badge/Code-HTML%20%2B%20CSS-brightgreen)
+![Metrics](https://github.com/hydrostaticcog/hydrostaticcog/blob/master/github-metrics.svg)
