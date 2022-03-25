@@ -481,7 +481,7 @@ VERY backend developer, no JS please</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 784k out of 87m users</span>
+                                    <span class="gh">ranked 785k out of 87m users</span>
                                 </div>
                                 <div class="text">Published 36 public repositories</div>
                             </div>
@@ -698,7 +698,7 @@ VERY backend developer, no JS please</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 366k out of 291m repositories</span>
+                                    <span class="gh">ranked 366k out of 292m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 64 stars</div>
                             </div>
@@ -997,7 +997,7 @@ VERY backend developer, no JS please</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.04m out of 291m repositories</span>
+                                    <span class="gh">ranked 4.04m out of 292m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1118,7 +1118,7 @@ VERY backend developer, no JS please</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Mar 2022, 01:04:09 (timezone America/Chicago) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 25 Mar 2022, 02:04:09 (timezone America/Chicago) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
