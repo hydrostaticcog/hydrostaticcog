@@ -514,7 +514,7 @@ VERY backend developer, no JS please</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 743k out of 94m users</span>
+                                    <span class="gh">ranked 743k out of 95m users</span>
                                 </div>
                                 <div class="text">Published 39 public repositories</div>
                             </div>
@@ -885,7 +885,7 @@ VERY backend developer, no JS please</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 872k out of 94m users</span>
+                                    <span class="gh">ranked 872k out of 95m users</span>
                                 </div>
                                 <div class="text">Followed by 11 users</div>
                             </div>
@@ -1154,7 +1154,7 @@ VERY backend developer, no JS please</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jul 2022, 01:04:27 (timezone America/Chicago) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 28 Jul 2022, 02:04:06 (timezone America/Chicago) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
