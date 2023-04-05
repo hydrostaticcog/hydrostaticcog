@@ -807,7 +807,7 @@ VERY backend developer, no JS please</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 966k out of 112m users</span>
+                                    <span class="gh">ranked 967k out of 112m users</span>
                                 </div>
                                 <div class="text">Followed by 12 users</div>
                             </div>
@@ -1152,7 +1152,7 @@ VERY backend developer, no JS please</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Apr 2023, 18:04:13 (timezone America/Chicago) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 4 Apr 2023, 19:11:48 (timezone America/Chicago) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
